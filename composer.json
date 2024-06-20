@@ -1,0 +1,10 @@
+{
+    "name": "posture/hello-world-template-part",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Posture\\HelloWorldTemplatePart\\": "src/"
+        }
+    },
+    "require": {}
+}
